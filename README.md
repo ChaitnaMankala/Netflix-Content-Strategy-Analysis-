@@ -55,3 +55,10 @@ This project analyzes Netflix’s 2023 content strategy using Python to uncover 
 
 **6. Holiday Impact**
  - Strategic releases around New Year’s, Valentine’s Day, Halloween, and Christmas result in higher viewership
+
+**Conclusion**
+ - Netflix leans heavily on shows to drive engagement
+ - Audience engagement peaks in Fall and December
+ - Friday is the most strategic day for new releases
+ - Viewership isn’t driven just by volume but timing + content appeal
+ - Language diversity, especially Korean and English, is key to global success
