@@ -41,12 +41,13 @@ This project analyzes Netflix’s 2023 content strategy using Python to uncover 
 
 **4. Top 5 Titles by Viewership**
 
-**Title**                       **Type****Language****Hours Viewed**
-The Night Agent: Season 1	         Show	   English	     812.1M
-Ginny & Georgia: Season 2	         Show	   English	     665.1M
-King the Land: Limited Series	     Movie	 Korean	       630.2M
-The Glory: Season 1	               Show	   Korean	       622.8M
-ONE PIECE: Season 1	               Show	   English	     541.9M
+| Title                         | Type  | Language | Hours Viewed |
+| ----------------------------- | ----- | -------- | ------------ |
+| The Night Agent: Season 1     | Show  | English  | 812.1M       |
+| Ginny & Georgia: Season 2     | Show  | English  | 665.1M       |
+| King the Land: Limited Series | Movie | Korean   | 630.2M       |
+| The Glory: Season 1           | Show  | Korean   | 622.8M       |
+| ONE PIECE: Season 1           | Show  | English  | 541.9M       |
 
 **5. Weekday Release Patterns**
  - Most content is released on Fridays
