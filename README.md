@@ -27,23 +27,30 @@ This project analyzes Netflix’s 2023 content strategy using Python to uncover 
   - Release Season (Winter, Spring, Summer, Fall)
 
 **Key Visualizations & Insights**
+
 **1. Viewership by Content Type**
  - Bar chart comparing total hours watched for Shows vs Movies
  - Shows dominate overall viewership on Netflix
+
 **2. Viewership by Language**
  - Highlights the dominance of English content, followed by Korean, indicating global reach
+
 **3. Monthly & Seasonal Trends**
  - Peaks observed in June and December
  - Fall season drives maximum engagement across the year
+
 **4. Top 5 Titles by Viewership**
-**Title	**                       **Type****Language****Hours Viewed**
+
+**Title**                       **Type****Language****Hours Viewed**
 The Night Agent: Season 1	         Show	   English	     812.1M
 Ginny & Georgia: Season 2	         Show	   English	     665.1M
 King the Land: Limited Series	     Movie	 Korean	       630.2M
 The Glory: Season 1	               Show	   Korean	       622.8M
 ONE PIECE: Season 1	               Show	   English	     541.9M
+
 **5. Weekday Release Patterns**
  - Most content is released on Fridays
  - Viewership also peaks on Fridays, aligning with audience weekend habits
+
 **6. Holiday Impact**
  - Strategic releases around New Year’s, Valentine’s Day, Halloween, and Christmas result in higher viewership
