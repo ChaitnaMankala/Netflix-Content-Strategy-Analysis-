@@ -12,19 +12,19 @@ This project analyzes Netflix’s 2023 content strategy using Python to uncover 
 **Dataset**
  - Source: Netflix Content Dataset (2023)
  - Features:
-  - Title: Name of the content
-  - Content Type: Movie or Show
-  - Language Indicator: Language of content
-  - Release Date: Original release date
-  - Hours Viewed: Total hours content was watched in 2023
+    - Title: Name of the content
+    - Content Type: Movie or Show
+    - Language Indicator: Language of content
+    - Release Date: Original release date
+    - Hours Viewed: Total hours content was watched in 2023
 
 **Data Preparation**
  - Cleaned Hours Viewed (removed commas and converted to float)
  - Converted Release Date to datetime
  - Extracted:
-  - Release Month
-  - Release Day (weekday)
-  - Release Season (Winter, Spring, Summer, Fall)
+    - Release Month
+    - Release Day (weekday)
+    - Release Season (Winter, Spring, Summer, Fall)
 
 **Key Visualizations & Insights**
 
